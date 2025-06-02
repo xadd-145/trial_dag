@@ -1,2 +1,4 @@
 project:
   name: debug-test-project
+  airflow_version: 3.0.2
+  python_version: "3.9"
